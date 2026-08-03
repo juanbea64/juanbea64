@@ -1,7 +1,6 @@
 <!-- MasterHead -->
-<a href="https://github.com/juanbea64/juanbea64/blob/main/img/coding-header.gif">
-  <img width="100%" src="https://github.com/juanbea64/juanbea64/blob/main/coding-header.gif" alt="Fallout GIF"/>
-</a>
+<img width="100%" src="img/coding-header.gif" alt="Fallout GIF"/>
+
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=375BF7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Juan+David+Bello+Aguilar;Bogot%C3%A1%2C+Colombia;Full+Stack+Developer;Angular+%E2%80%A2+TS+%E2%80%A2+C%23+%E2%80%A2+.NET+%E2%80%A2+SQL+%E2%80%A2+AWS;AI+enthusiast+%F0%9F%A4%96;Team+player+%F0%9F%A4%9D;Problem+solver+%F0%9F%92%A1;Learning+every+day+%F0%9F%93%9A;Clean+code+%26+best+practices;3%2B+years+experience+%F0%9F%9A%80" />
@@ -13,7 +12,7 @@
 <tr>
 <td width="42%" align="center">
 
-<img src="https://github.com/juanbea64/juanbea64/blob/main/img/juan-img2" width="360"/>
+<img src="img/juan-img2.jpg" width="360"/>
 
 </td>
 <td width="58%" valign="top">
