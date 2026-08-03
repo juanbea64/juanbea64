@@ -12,7 +12,7 @@
 <tr>
 <td width="42%" align="center">
 
-<img src="img/juan-img2.jpg" width="360"/>
+<img src="img/juan-img2.jpg" width="760"/>
 
 </td>
 <td width="58%" valign="top">
