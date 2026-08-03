@@ -1,3 +1,9 @@
+<!-- MasterHead -->
+<a href="https://github.com/juanbea64/juanbea64/blob/main/coding-header.gif">
+  <img width="100%" src="https://github.com/juanbea64/juanbea64/blob/main/coding-header.gif" alt="Fallout GIF"/>
+</a>
+
+
 <h1 align="center">Hi 👋, I'm Juan David Bello Aguilar</h1>
 <h3 align="center">A passionate Full-Stack developer from Colombia</h3>
 
