@@ -10,12 +10,12 @@
 
 <table>
 <tr>
-<td width="42%" align="center">
+<td width="40%" align="center">
 
 <img src="img/juan-img2.jpg" width="760"/>
 
 </td>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
 
 
