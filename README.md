@@ -19,37 +19,26 @@
 const juanBello = {
     role: "Full Stack Developer | AI Enthusiast",
     location: "Bogotá, Colombia 🇨🇴",
-    experience: "3+ years",
+    experience: "3+ years",,
 
     building: [
-      "Web Applications",
-      "Scalable APIs",
-      "AI-powered Solutions"
+        "Web Applications",
+        "Scalable APIs",
     ],
 
     learning: [
-      "Artificial Intelligence",
-      "Claude & LLMs",
-      "Cloud Architecture",
-      "System Design",
-      "Advanced .NET"
+        "Artificial Intelligence",
+        "Claude & LLMs",
+        "Cloud Architecture",
+        "Advanced .NET"
     ],
 
     tech: {
-      frontend: ["Angular", "TypeScript", "Sass"],
-      backend: ["C#", ".NET", "Node.js", "Java", "Spring Boot"],
-      ai: ["Python", "Claude", "LLMs"],
-      database: ["MySQL", "PostgreSQL", "ClickHouse"],
-      cloud: ["AWS"],
-      os: ["Linux", "Windows"]
-    },
-
-    softSkills: [
-      "Team Player 🤝",
-      "Problem Solver 💡",
-      "Continuous Learner 📚",
-      "Agile Methodologies 🔄"
-    ]
+        frontend: ["Angular", "Next.js", "Sas"],
+        backend: [".NET Core", "C#"],
+        ai: ["Claude", "Opencode"],
+        database: ["PostgreSQL", "MySQL"]
+    }
 };
 ```
 <br>
