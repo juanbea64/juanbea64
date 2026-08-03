@@ -37,11 +37,12 @@ const juanBello = {
     softSkills: ["Team Player 🤝", "Problem Solver 💡", "Continuous Learner 📚", "Agile Methodologies 🔄"]
 };
 ```
+<br>
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 
 </td>
-
 
 
 <td width="42%" align="center">
