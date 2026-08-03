@@ -10,13 +10,7 @@
 
 <table>
 <tr>
-<td width="42%" align="center" valign="middle">
-    <img
-        src="img/juan-img2.jpg"
-        alt="Juan David Bello Aguilar"
-        width="360"
-    />
-</td>
+
 <td width="58%" valign="top">
 
 
@@ -45,6 +39,14 @@ const juanBello = {
 ```
 
 
+
+</td>
+
+
+
+<td width="42%" align="center">
+
+<img src="img/juan-img2.jpg" width="360"/>
 
 </td>
 
